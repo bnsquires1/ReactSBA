@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
-import ContextProvider from './ContextProvider.jsx'
+import ContextProvider from './features/ContextProvider.jsx'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(

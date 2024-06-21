@@ -1,9 +1,9 @@
 import React, { useContext } from "react";
-import { CartContext } from "../../ContextProvider";
-import CartProduct from '../components/CartProduct';
-import { totalItem } from '../CartReducer'
+import { CartContext } from "../../features/ContextProvider.jsx";
+import { CartProduct } from "src/components/CartProduct.jsx";
+import { totalItem } from "src/features/CartReducer.jsx";
 
-export const Cart = () => {
+const Cart = () => {
   const { cart } = useContext(CartContext);
   return (
     <div className="container mt-3">
