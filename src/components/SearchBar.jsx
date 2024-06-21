@@ -1,4 +1,4 @@
-import { FaSearch } from "react-icons/fa";
+// import { FaSearch } from "react-icons/fa";
 
 // export const SearchBar  = () => {
 //     const [input, setInput] = useState("");
@@ -25,5 +25,3 @@ import { FaSearch } from "react-icons/fa";
 //      );
 // }
  
-export deexport fault
- SearchBar ;
