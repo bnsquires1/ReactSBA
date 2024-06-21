@@ -7,7 +7,7 @@ export const Navbar = () => {
     return (
         <div className='d-flex justify-content-between bg-secondary py-3 px-5 text-white'>
             <Link to="/">Shop</Link>
-            <Link to="/cart"><BsCart/></Link>
+            <Link to="/cart"><BsCart/>0</Link>
         </div>
 
     )
