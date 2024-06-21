@@ -1,49 +1,41 @@
 {
   "products": [
     {
-        "userId": 1,
         "id": 1,
         "title": "quidem molestiae enim",
         "quantity": 1
       },
       {
-        "userId": 1,
         "id": 2,
         "title": "sunt qui excepturi placeat culpa",
         "quantity": 1
       },
       {
-        "userId": 1,
         "id": 3,
         "title": "omnis laborum odio",
         "quantity": 1
       },
       {
-        "userId": 1,
         "id": 4,
         "title": "non esse culpa molestiae omnis sed optio",
         "quantity": 1
       },
       {
-        "userId": 1,
         "id": 5,
         "title": "eaque aut omnis a",
         "quantity": 1
       },
       {
-        "userId": 1,
         "id": 6,
         "title": "natus impedit quibusdam illo est",
         "quantity": 1
       },
       {
-        "userId": 1,
         "id": 7,
         "title": "quibusdam autem aliquid et et quia",
         "quantity": 1
       },
       {
-        "userId": 1,
         "id": 8,
         "title": "qui fuga est a eum",
         "quantity": 1

@@ -19,7 +19,7 @@
 //             <input
 //             placeholder="Type to Search Albums..."
 //             value={input}
-//             onChange={(e) => setInpuhandleChange(e.target.value)}
+//             onChange={(e) => setInputhandleChange(e.target.value)}
 //             />
 //         </div>
 //      );

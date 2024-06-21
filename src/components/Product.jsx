@@ -5,10 +5,9 @@ const Product = ({ product }) => {
     const {dispatch} = useContext(CartContext)
     return (
         <div className="card" style="width: 20rem;">
-            <img src={product.thumbnail} class="card-img-top" alt=".." />
-             <div class="card-body">
-                <h4 class="card-title">{product.title}</h4>
-                <button class="btn btn-primary"
+             <div className="card-body">
+                <h4 className="card-title">{product.title}</h4>
+                <button className="btn btn-primary"
                 onClick={() => dispatch({ type: "Add", product: product})}>
                     Add to cart
                 </button>
