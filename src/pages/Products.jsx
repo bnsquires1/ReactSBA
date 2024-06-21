@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import Data from '../data'
+import Data from '../data.json'
 import Product from '../components/Product'
 
 export const Products = () => {
